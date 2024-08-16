@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi I'm Ed Harding
 
+I work on a number of projects in neuroscience, drug discovery and computation
+
+**Computational Interests**:
+- Preclinical data analysis, pose estimation and motif identification
+- Omics analysis, integration and interpretation for the above
+- Small molecule chemoinformatics and prioritisation
+
+**Biological Interests**:
+- Drug discovery and biomarkers for neurodegeneration
+- Strategies for drug repurposing for CNS disorders
+- Anything hypothalamic biology  
+  
 <!--
 **EdH66/EdH66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
