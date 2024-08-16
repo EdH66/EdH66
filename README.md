@@ -8,7 +8,7 @@ I work on a number of projects in neuroscience, drug discovery and computation
 - Small molecule chemoinformatics and prioritisation
 
 **Biological Interests**:
-- Drug discovery and biomarkers for neurodegeneration
+- Target discovery and biomarkers for neurodegeneration
 - Strategies for drug repurposing for CNS disorders
 - Anything hypothalamic biology  
   
