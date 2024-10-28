@@ -7,7 +7,7 @@ I work on a number of projects in neuroscience, drug discovery and computation
 
 **Computational Interests**:
 - Multiomics analysis, integration for disease prediciton and target identification
-- Automation of preclinical data analysis to improve drug validaiton pipelines [![See Manuscript - 10.1101/2024.08.30.610328](https://img.shields.io/badge/See_Manuscript-10.1101%2F2024.08.30.610328-2ea44f)](https://www.biorxiv.org/content/10.1101/2024.08.30.610328v1)
+- Automation of preclinical data analysis to improve drug validation pipelines [![See Manuscript - 10.1101/2024.08.30.610328](https://img.shields.io/badge/See_Manuscript-10.1101%2F2024.08.30.610328-2ea44f)](https://www.biorxiv.org/content/10.1101/2024.08.30.610328v1)
 - Drug repurposing in neurodegeneration [![See Manuscript - 10.1101/2023.07.18.549549](https://img.shields.io/badge/See_Manuscript-10.1101%2F2023.07.18.549549-2ea44f)](https://www.biorxiv.org/content/10.1101/2023.07.18.549549v2)
 - Small molecule chemoinformatics and prioritisation
 
