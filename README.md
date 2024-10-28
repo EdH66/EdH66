@@ -2,8 +2,9 @@
 
 I work on a number of projects in neuroscience, drug discovery and computation
 
-<a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-blue?logo=%234285F4)](https://scholar.google.com/citations?user=HADd39gAAAAJ&hl=en)
+<a href="https://www.linkedin.com/in/edwardcharding/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 **Computational Interests**:
 - Multiomics analysis, integration for disease prediciton and target identification
