@@ -7,7 +7,7 @@ I work on a number of projects in neuroscience, drug discovery and computation a
 <a href="https://www.linkedin.com/in/edwardcharding/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 **Computational Interests**:
-- Multiomics analysis, integration for disease prediciton and target identification
+- Multiomics analysis, integration for prognostic biomarker prediction and target identification
 - Automation of preclinical data analysis to improve drug validation pipelines [![See Manuscript - 10.1101/2024.08.30.610328](https://img.shields.io/badge/See_Manuscript-10.1101%2F2024.08.30.610328-2ea44f)](https://www.biorxiv.org/content/10.1101/2024.08.30.610328v1)
 - Drug repurposing in neurodegeneration [![See Manuscript - 10.1101/2023.07.18.549549](https://img.shields.io/badge/See_Manuscript-10.1101%2F2023.07.18.549549-2ea44f)](https://www.biorxiv.org/content/10.1101/2023.07.18.549549v2)
 - Small molecule chemoinformatics and prioritisation
