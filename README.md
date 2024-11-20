@@ -1,6 +1,6 @@
 ## Hi I'm Ed Harding
 
-I work on a number of projects in neuroscience, drug discovery and computation at the University of Cambridge
+I am the lead on a number of projects in neuroscience, drug discovery and computation at the University of Cambridge
 
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-blue?logo=%234285F4)](https://scholar.google.com/citations?user=HADd39gAAAAJ&hl=en)
